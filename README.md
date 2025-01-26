@@ -2,7 +2,9 @@
 
 <h1 align="center">Hi 👋,&nbsp;I'm Harinee S</h1>
 <h3 align="center">Aspiring Software Developer</h3>
+<img align="right" src="https://komarev.com/ghpvc/?username=harinee24&label=Profile%20views&color=88C298&style=flat" alt="harinee24" />
 
+<br>
 <h1 align="bold">💫  About Me</h1>
 - 👋 Hi there! I'm Eager to explore tech industry and provide meaning full contributions. 
 
